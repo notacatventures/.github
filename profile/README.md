@@ -33,8 +33,6 @@ I'm a solo entrepreneur passionate about creating meaningful software. Currently
     </a>
 </div>
 
-##
-
 Building digital products, one commit at a time. 
 
 *I am [not a cat](https://notacatventures.com)*
