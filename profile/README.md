@@ -4,7 +4,7 @@
 
 Welcome to my one-person SaaS adventure. I'm building thoughtful, impactful applications that solve real problems. No fluff.
 
-## About Me
+## About
 
 ![](./banner.png)
 
@@ -16,9 +16,7 @@ I'm a solo entrepreneur passionate about creating meaningful software. Currently
 - Validating ideas through real user feedback
 - Creating sustainable, bootstrapped businesses
 
-## Get in Touch
-
-Have questions or want to collaborate? I'm all ears (and definitely not a cat).
+## Paws and browse
 
 <div>
     <a href="https://twitter.com/jb_notacat" title="Twitter" style="display: inline-block; padding: 4px 0; transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='translateY(-4px)';" onmouseout="this.style.transform='translateY(0)';">
@@ -35,6 +33,8 @@ Have questions or want to collaborate? I'm all ears (and definitely not a cat).
     </a>
 </div>
 
----
+<hr>
 
-*Building digital products, one commit at a time. Definitely [not a cat](https://notacatventures.com)*
+Building digital products, one commit at a time. 
+
+*I am [not a cat](https://notacatventures.com)*
