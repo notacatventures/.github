@@ -2,13 +2,7 @@
 
 Building startups
 
-## About
-
 ![](./banner.png)
-
-I'm a solo entrepreneur focused on creating vertical startups that deliver high value.
-
-## Paws and browse
 
 <div>
     <a href="https://twitter.com/jb_notacat" title="Twitter">
