@@ -1,20 +1,12 @@
 # Not a cat
 
-> Clever apps, not just whiskers
-
-Welcome to my one-person SaaS adventure. I'm building thoughtful, impactful applications that solve real problems. No fluff.
+Building startups
 
 ## About
 
 ![](./banner.png)
 
-I'm a solo entrepreneur passionate about creating meaningful software. Currently bootstrapping my way through the SaaS landscape, focusing on building products that deliver genuine value.
-
-## Current Focus
-
-- Building and launching MVPs quickly
-- Validating ideas through real user feedback
-- Creating sustainable, bootstrapped businesses
+I'm a solo entrepreneur focused on creating vertical startups that deliver high value.
 
 ## Paws and browse
 
@@ -22,7 +14,7 @@ I'm a solo entrepreneur passionate about creating meaningful software. Currently
     <a href="https://twitter.com/jb_notacat" title="Twitter">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=00000000" alt="Twitter">
     </a>
-    <a href="https://bsky.app/profile/jb-notacat.bsky.social" title="Bluesky">
+    <a href="https://bsky.app/profile/jbouhier.com" title="Bluesky">
       <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=00000000" alt="Bluesky">
     </a>
     <a href="https://youtube.com/@jb-notacat" title="YouTube">
@@ -36,6 +28,5 @@ I'm a solo entrepreneur passionate about creating meaningful software. Currently
 <p></p>
 <p></p>
 
-Building digital products, one commit at a time. 
 
 *I am [not a cat](https://notacatventures.com)*
