@@ -5,13 +5,13 @@ Building startups
 ![](./banner.png)
 
 <div>
-    <a href="https://twitter.com/jb_notacat" title="Twitter">
+    <a href="https://twitter.com/jb_bouhier" title="Twitter">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=00000000" alt="Twitter">
     </a>
     <a href="https://bsky.app/profile/jbouhier.com" title="Bluesky">
       <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=00000000" alt="Bluesky">
     </a>
-    <a href="https://youtube.com/@jb-notacat" title="YouTube">
+    <a href="https://youtube.com/@jb-bouhier" title="YouTube">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=00000000" alt="YouTube">
     </a>
     <a href="https://www.linkedin.com/in/jbbouhier/" title="LinkedIn">
