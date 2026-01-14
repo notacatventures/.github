@@ -23,4 +23,4 @@ Building startups
 <p></p>
 
 
-*I am [not a cat](https://notacatventures.com)*
+*I am [not a cat](https://notacat.co)*
